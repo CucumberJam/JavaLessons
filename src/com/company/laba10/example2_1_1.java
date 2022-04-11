@@ -44,7 +44,5 @@ public class example2_1_1 {
         } catch (ArithmeticException j){
             System.out.println("Попробуйте еще раз");
         }
-
-
     }
 }

@@ -53,8 +53,5 @@ public class example2_2_2 {
         } catch (ArrayIndexOutOfBoundsException d) {
             System.out.println("ОШИБКА: нет столбца/ строки с таким номером");
         }
-
     }
-
-
 }
